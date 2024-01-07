@@ -1,0 +1,124 @@
+{
+    "trips": [
+        {
+            "name": "Berlin Trip",
+            "targetCountry": "Niemcy",
+            "startDate": "2024-01-10",
+            "endDate": "2024-01-15",
+            "price": 2300,
+            "amountOfFreePlaces": 11,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/berlin_trip.jpeg",
+            "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/berlin_trip_1.jpeg", "http://localhost:3000/img/allMiniSrc/berlin_trip_2.jpg", "http://localhost:3000/img/allMiniSrc/berlin_trip_3.jpg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/berlin_trip_1.jpeg", "http://localhost:3000/img/allLargeSrc/berlin_trip_2.jpg", "http://localhost:3000/img/allLargeSrc/berlin_trip_3.jpg"]
+        },
+        {
+            "name": "Chicago Trip",
+            "targetCountry": "Stany Zjednoczone",
+            "startDate": "2024-01-15",
+            "endDate": "2024-01-21",
+            "price": 4100,
+            "amountOfFreePlaces": 16,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/chicago_trip.jpeg",
+            "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/chicago_trip_1.jpeg", "http://localhost:3000/img/allMiniSrc/chicago_trip_2.jpg", "http://localhost:3000/img/allMiniSrc/chicago_trip_3.jpg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/chicago_trip_1.jpeg", "http://localhost:3000/img/allLargeSrc/chicago_trip_2.jpg", "http://localhost:3000/img/allLargeSrc/chicago_trip_3.jpg"]
+        },
+        {
+            "name": "Cracow Trip",
+            "targetCountry": "Polska",
+            "startDate": "2024-02-10",
+            "endDate": "2024-03-15",
+            "price": 5200,
+            "amountOfFreePlaces": 5,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/cracow_trip.jpeg",
+            "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/cracow_trip_1.jpeg", "http://localhost:3000/img/allMiniSrc/cracow_trip_2.jpg", "http://localhost:3000/img/allMiniSrc/cracow_trip_3.jpg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/cracow_trip_1.jpeg", "http://localhost:3000/img/allLargeSrc/cracow_trip_2.jpg", "http://localhost:3000/img/allLargeSrc/cracow_trip_3.jpg"]
+        },
+        {
+            "name": "Warsaw Trip",
+            "targetCountry": "Polska",
+            "startDate": "2024-01-04",
+            "endDate": "2024-01-19",
+            "price": 1200,
+            "amountOfFreePlaces": 16,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/warsaw_trip.jpeg",
+            "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/warsaw_trip_1.jpeg", "http://localhost:3000/img/allMiniSrc/warsaw_trip_2.jpg", "http://localhost:3000/img/allMiniSrc/warsaw_trip_3.jpg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/warsaw_trip_1.jpeg", "http://localhost:3000/img/allLargeSrc/warsaw_trip_2.jpg", "http://localhost:3000/img/allLargeSrc/warsaw_trip_3.jpg"]
+        },
+        {
+            "name": "Sydney Trip",
+            "targetCountry": "Australia",
+            "startDate": "2024-01-10",
+            "endDate": "2024-01-15",
+            "price": 3400,
+            "amountOfFreePlaces": 11,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/sydney_trip.jpeg",
+            "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/sydney_trip_1.jpg", "http://localhost:3000/img/allMiniSrc/sydney_trip_2.jpg", "http://localhost:3000/img/allMiniSrc/sydney_trip_3.jpeg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/sydney_trip_1.jpg", "http://localhost:3000/img/allLargeSrc/sydney_trip_2.jpg", "http://localhost:3000/img/allLargeSrc/sydney_trip_3.jpeg"]
+        },
+        {
+            "name": "Super Tenerife Trip",
+            "targetCountry": "Hiszpania",
+            "startDate": "2024-02-15",
+            "endDate": "2024-02-24",
+            "price": 9500,
+            "amountOfFreePlaces": 33,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/tenerife_trip.jpg",
+            "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/tenerife_trip_1.jpg", "http://localhost:3000/img/allMiniSrc/tenerife_trip_2.jpg", "http://localhost:3000/img/allMiniSrc/tenerife_trip_3.jpg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/tenerife_trip_1.jpg", "http://localhost:3000/img/allLargeSrc/tenerife_trip_2.jpg", "http://localhost:3000/img/allLargeSrc/tenerife_trip_3.jpg"]
+        },
+        {
+            "name": "Przygoda w Egipcie",
+            "targetCountry": "Egipt",
+            "startDate": "2024-01-08",
+            "endDate": "2024-01-21",
+            "price": 8700,
+            "amountOfFreePlaces": 18,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/egypt_trip.jpg",
+            "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/egypt_trip_1.jpg", "http://localhost:3000/img/allMiniSrc/egypt_trip_2.jpg", "http://localhost:3000/img/allMiniSrc/egypt_trip_3.jpg", "http://localhost:3000/img/allMiniSrc/egypt_trip_4.jpg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/egypt_trip_1.jpg", "http://localhost:3000/img/allLargeSrc/egypt_trip_2.jpg", "http://localhost:3000/img/allLargeSrc/egypt_trip_3.jpg", "http://localhost:3000/img/allLargeSrc/egypt_trip_4.jpg"]
+        },
+        {
+            "name": "New York!",
+            "targetCountry": "Stany Zjednoczone",
+            "startDate": "2024-01-23",
+            "endDate": "2024-02-04",
+            "price": 5200,
+            "amountOfFreePlaces": 18,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/new_york_trip.jpg",
+            "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/new_york_trip_1.jpg", "http://localhost:3000/img/allMiniSrc/new_york_trip_2.jpg", "http://localhost:3000/img/allMiniSrc/new_york_trip_3.jpg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/new_york_trip_1.jpg", "http://localhost:3000/img/allLargeSrc/new_york_trip_2.jpg", "http://localhost:3000/img/allLargeSrc/new_york_trip_3.jpg"]
+        },
+        {
+            "name": "Paris Trip",
+            "targetCountry": "Francja",
+            "startDate": "2024-01-12",
+            "endDate": "2024-01-19",
+            "price": 3900,
+            "amountOfFreePlaces": 19,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/paris_trip.jpg",
+            "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/paris_trip_1.jpg", "http://localhost:3000/img/allMiniSrc/paris_trip_2.jpg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/paris_trip_1.jpg", "http://localhost:3000/img/allLargeSrc/paris_trip_2.jpg"]
+        },
+        {
+            "name": "Słoneczny Cypr",
+            "targetCountry": "Cypr",
+            "startDate": "2024-02-06",
+            "endDate": "2024-02-16",
+            "price": 5600,
+            "amountOfFreePlaces": 8,
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque ipsam sint consequuntur officiis iste amet eligendi, quisquam itaque voluptatum aperiam, minima nisi obcaecati deleniti molestiae rem! Iusto impedit id minima!",
+            "imgSrc": "http://localhost:3000/img/src/cyprus_trip.jpg",
+             "allMiniImgSrc": ["http://localhost:3000/img/allMiniSrc/cyprus_trip_1.jpg", "http://localhost:3000/img/allMiniSrc/cyprus_trip_2.jpg", "http://localhost:3000/img/allMiniSrc/cyprus_trip_3.jpg"],
+            "allLargeImgSrc": ["http://localhost:3000/img/allLargeSrc/cyprus_trip_1.jpg", "http://localhost:3000/img/allLargeSrc/cyprus_trip_2.jpg", "http://localhost:3000/img/allLargeSrc/cyprus_trip_3.jpg"]
+        }
+    ]
+}
