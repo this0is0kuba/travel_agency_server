@@ -1,13 +1,24 @@
 const fs = require('fs');
 const Trip = require('../models/trip');
+const User = require('../models/user')
 
-const initialDataJSON = fs.readFileSync('./mongoDB/initialData.json');
-const initialData = JSON.parse(initialDataJSON);
+const initialTripsJSON = fs.readFileSync('./mongoDB/initialData/initialTrips.json');
+const initialTrips = JSON.parse(initialTripsJSON);
+
+const initialUsersJSON = fs.readFileSync("./mongoDB/initialData/initialUsers.json");
+const initialUsers = JSON.parse(initialUsersJSON);
 
 const tripArray = [];
-
-initialData.trips.forEach(element => {
+initialTrips.trips.forEach(element => {
     tripArray.push(Trip(element));
 });
 
-module.exports = tripArray;
+const userArray = [];
+initialUsers.users.forEach(element => {
+    userArray.push(User(element))
+});
+
+module.exports = {
+    tripArray,
+    userArray
+};

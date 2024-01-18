@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "email": "jan.kowalski@wp.pl",
+            "password": "jan123",
+            "firstName": "Jan",
+            "lastName": "Kowalski",
+            "dateOfBirth": "1978-11-26",
+            "role": ["user", "admin"]
+        },
+        {
+            "email": "adam.nowak@wp.pl",
+            "password": "adam123",
+            "firstName": "Adam",
+            "lastName": "Nowak",
+            "dateOfBirth": "1999-04-14",
+            "role": ["user"]
+        },
+        {
+            "email": "anna.kowalska@wp.pl",
+            "password": "anna123",
+            "firstName": "Anna",
+            "lastName": "Kowalska",
+            "dateOfBirth": "1978-05-18",
+            "role": ["user"]
+        }
+    ]
+}
